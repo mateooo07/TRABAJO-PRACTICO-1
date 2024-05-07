@@ -1,0 +1,14 @@
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\bin\Debug\net8.0\TRABAJO PRACTICO.exe
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\bin\Debug\net8.0\TRABAJO PRACTICO.deps.json
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\bin\Debug\net8.0\TRABAJO PRACTICO.runtimeconfig.json
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\bin\Debug\net8.0\TRABAJO PRACTICO.dll
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\bin\Debug\net8.0\TRABAJO PRACTICO.pdb
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\net8.0\TRABAJO PRACTICO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\net8.0\TRABAJO PRACTICO.AssemblyInfoInputs.cache
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\net8.0\TRABAJO PRACTICO.AssemblyInfo.cs
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\net8.0\TRABAJO PRACTICO.csproj.CoreCompileInputs.cache
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\net8.0\TRABAJO PRACTICO.dll
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\net8.0\refint\TRABAJO PRACTICO.dll
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\net8.0\TRABAJO PRACTICO.pdb
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\net8.0\TRABAJO PRACTICO.genruntimeconfig.cache
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\net8.0\ref\TRABAJO PRACTICO.dll
