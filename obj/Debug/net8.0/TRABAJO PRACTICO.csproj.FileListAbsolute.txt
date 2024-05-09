@@ -12,3 +12,4 @@ C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\n
 C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\net8.0\TRABAJO PRACTICO.pdb
 C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\net8.0\TRABAJO PRACTICO.genruntimeconfig.cache
 C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\net8.0\ref\TRABAJO PRACTICO.dll
+C:\Users\Mateo Pavoni\source\repos\TRABAJO PRACTICO\TRABAJO PRACTICO\obj\Debug\net8.0\TRABAJO PRACTICO.sourcelink.json
